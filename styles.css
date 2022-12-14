@@ -1,0 +1,14 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(4, 300px);
+}
+
+.box {
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+}
+
+.hovered {
+    background-color: black;
+}
